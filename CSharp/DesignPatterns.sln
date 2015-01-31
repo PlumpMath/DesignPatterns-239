@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern", "FactoryPattern\FactoryPattern.csproj", "{E8FDAF0F-C93C-4D67-B0EA-3137FEA244BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern", "StrategyPattern\StrategyPattern.csproj", "{A0728664-4D10-4328-84EF-520EEC7A5E3D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -15,6 +17,10 @@ Global
 		{E8FDAF0F-C93C-4D67-B0EA-3137FEA244BD}.Debug|x86.Build.0 = Debug|x86
 		{E8FDAF0F-C93C-4D67-B0EA-3137FEA244BD}.Release|x86.ActiveCfg = Release|x86
 		{E8FDAF0F-C93C-4D67-B0EA-3137FEA244BD}.Release|x86.Build.0 = Release|x86
+		{A0728664-4D10-4328-84EF-520EEC7A5E3D}.Debug|x86.ActiveCfg = Debug|x86
+		{A0728664-4D10-4328-84EF-520EEC7A5E3D}.Debug|x86.Build.0 = Debug|x86
+		{A0728664-4D10-4328-84EF-520EEC7A5E3D}.Release|x86.ActiveCfg = Release|x86
+		{A0728664-4D10-4328-84EF-520EEC7A5E3D}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
