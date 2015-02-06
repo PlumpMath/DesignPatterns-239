@@ -11,6 +11,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "Decorat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPattern", "AdapterPattern\AdapterPattern.csproj", "{203346AC-6B72-4A19-9866-33F90C0D130F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryPattern", "AbstractFactoryPattern\AbstractFactoryPattern.csproj", "{9C838203-FA7D-4FDC-B17F-1245E7F5A143}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "ObserverPattern\ObserverPattern.csproj", "{BF0F1D91-0FE3-4EEE-941F-2E01B3D99F86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyPattern", "ProxyPattern\ProxyPattern.csproj", "{CD22333A-6084-4A37-854D-198A871A2B7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{9BCAD42A-52BF-47B1-ACCA-63AE660C434A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitorPattern", "VisitorPattern\VisitorPattern.csproj", "{F0A4C9E1-BAF6-4686-A2A7-DFAB27AC00DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -33,6 +43,26 @@ Global
 		{203346AC-6B72-4A19-9866-33F90C0D130F}.Debug|x86.Build.0 = Debug|x86
 		{203346AC-6B72-4A19-9866-33F90C0D130F}.Release|x86.ActiveCfg = Release|x86
 		{203346AC-6B72-4A19-9866-33F90C0D130F}.Release|x86.Build.0 = Release|x86
+		{9C838203-FA7D-4FDC-B17F-1245E7F5A143}.Debug|x86.ActiveCfg = Debug|x86
+		{9C838203-FA7D-4FDC-B17F-1245E7F5A143}.Debug|x86.Build.0 = Debug|x86
+		{9C838203-FA7D-4FDC-B17F-1245E7F5A143}.Release|x86.ActiveCfg = Release|x86
+		{9C838203-FA7D-4FDC-B17F-1245E7F5A143}.Release|x86.Build.0 = Release|x86
+		{BF0F1D91-0FE3-4EEE-941F-2E01B3D99F86}.Debug|x86.ActiveCfg = Debug|x86
+		{BF0F1D91-0FE3-4EEE-941F-2E01B3D99F86}.Debug|x86.Build.0 = Debug|x86
+		{BF0F1D91-0FE3-4EEE-941F-2E01B3D99F86}.Release|x86.ActiveCfg = Release|x86
+		{BF0F1D91-0FE3-4EEE-941F-2E01B3D99F86}.Release|x86.Build.0 = Release|x86
+		{CD22333A-6084-4A37-854D-198A871A2B7E}.Debug|x86.ActiveCfg = Debug|x86
+		{CD22333A-6084-4A37-854D-198A871A2B7E}.Debug|x86.Build.0 = Debug|x86
+		{CD22333A-6084-4A37-854D-198A871A2B7E}.Release|x86.ActiveCfg = Release|x86
+		{CD22333A-6084-4A37-854D-198A871A2B7E}.Release|x86.Build.0 = Release|x86
+		{9BCAD42A-52BF-47B1-ACCA-63AE660C434A}.Debug|x86.ActiveCfg = Debug|x86
+		{9BCAD42A-52BF-47B1-ACCA-63AE660C434A}.Debug|x86.Build.0 = Debug|x86
+		{9BCAD42A-52BF-47B1-ACCA-63AE660C434A}.Release|x86.ActiveCfg = Release|x86
+		{9BCAD42A-52BF-47B1-ACCA-63AE660C434A}.Release|x86.Build.0 = Release|x86
+		{F0A4C9E1-BAF6-4686-A2A7-DFAB27AC00DC}.Debug|x86.ActiveCfg = Debug|x86
+		{F0A4C9E1-BAF6-4686-A2A7-DFAB27AC00DC}.Debug|x86.Build.0 = Debug|x86
+		{F0A4C9E1-BAF6-4686-A2A7-DFAB27AC00DC}.Release|x86.ActiveCfg = Release|x86
+		{F0A4C9E1-BAF6-4686-A2A7-DFAB27AC00DC}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
