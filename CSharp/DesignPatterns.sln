@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "BuilderPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "CommandPattern\CommandPattern.csproj", "{F08BB822-EE68-4D56-B9E7-7182B902924A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositePattern", "CompositePattern\CompositePattern.csproj", "{070B6B43-E170-4C48-9580-3F0EB7B0F50F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -81,6 +83,10 @@ Global
 		{F08BB822-EE68-4D56-B9E7-7182B902924A}.Debug|x86.Build.0 = Debug|x86
 		{F08BB822-EE68-4D56-B9E7-7182B902924A}.Release|x86.ActiveCfg = Release|x86
 		{F08BB822-EE68-4D56-B9E7-7182B902924A}.Release|x86.Build.0 = Release|x86
+		{070B6B43-E170-4C48-9580-3F0EB7B0F50F}.Debug|x86.ActiveCfg = Debug|x86
+		{070B6B43-E170-4C48-9580-3F0EB7B0F50F}.Debug|x86.Build.0 = Debug|x86
+		{070B6B43-E170-4C48-9580-3F0EB7B0F50F}.Release|x86.ActiveCfg = Release|x86
+		{070B6B43-E170-4C48-9580-3F0EB7B0F50F}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
