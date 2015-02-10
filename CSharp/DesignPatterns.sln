@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositePattern", "Composi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadePattern", "FacadePattern\FacadePattern.csproj", "{F5B08147-73AC-40A0-8384-3413D6D9645B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyweightPattern", "FlyweightPattern\FlyweightPattern.csproj", "{CD72632B-0512-4BC6-9E36-F18C748DC668}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -93,6 +95,10 @@ Global
 		{F5B08147-73AC-40A0-8384-3413D6D9645B}.Debug|x86.Build.0 = Debug|x86
 		{F5B08147-73AC-40A0-8384-3413D6D9645B}.Release|x86.ActiveCfg = Release|x86
 		{F5B08147-73AC-40A0-8384-3413D6D9645B}.Release|x86.Build.0 = Release|x86
+		{CD72632B-0512-4BC6-9E36-F18C748DC668}.Debug|x86.ActiveCfg = Debug|x86
+		{CD72632B-0512-4BC6-9E36-F18C748DC668}.Debug|x86.Build.0 = Debug|x86
+		{CD72632B-0512-4BC6-9E36-F18C748DC668}.Release|x86.ActiveCfg = Release|x86
+		{CD72632B-0512-4BC6-9E36-F18C748DC668}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
