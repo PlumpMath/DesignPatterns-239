@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplatePattern", "Template
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainPattern", "ChainPattern\ChainPattern.csproj", "{CA338A00-4F2F-415D-9663-6D2023F8A696}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterpreterPattern", "InterpreterPattern\InterpreterPattern.csproj", "{7D4ACAC1-F715-4E8F-A97A-094AD35E4002}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -135,6 +137,10 @@ Global
 		{CA338A00-4F2F-415D-9663-6D2023F8A696}.Debug|x86.Build.0 = Debug|x86
 		{CA338A00-4F2F-415D-9663-6D2023F8A696}.Release|x86.ActiveCfg = Release|x86
 		{CA338A00-4F2F-415D-9663-6D2023F8A696}.Release|x86.Build.0 = Release|x86
+		{7D4ACAC1-F715-4E8F-A97A-094AD35E4002}.Debug|x86.ActiveCfg = Debug|x86
+		{7D4ACAC1-F715-4E8F-A97A-094AD35E4002}.Debug|x86.Build.0 = Debug|x86
+		{7D4ACAC1-F715-4E8F-A97A-094AD35E4002}.Release|x86.ActiveCfg = Release|x86
+		{7D4ACAC1-F715-4E8F-A97A-094AD35E4002}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
